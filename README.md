@@ -3,31 +3,34 @@
 # 👋 Hi, I’m Gartee
 
 Informatics Engineering student focused on **Full-Stack Web Development**  
-with a primary stack **Next.js, React, Tailwind CSS, and Node.js**.
+with a primary stack **Next.js, React, Tailwind CSS, Node.js**, and **Docker**.
 
-I am preparing myself for **internship and entry-level opportunities** by building strong fundamentals in frontend, backend, and modern web development practices.
+I am preparing myself for **internship and entry-level opportunities** by building strong fundamentals in web development, system understanding, and modern development workflows.
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Informatics Engineering student  
 - 💻 Aspiring Full-Stack Web Developer  
-- 🧠 Interested in building modern, scalable, and maintainable web applications  
-- 📈 Learning through hands-on development and continuous improvement  
+- 🧠 Interested in building scalable and maintainable web applications  
+- ⚙️ Learning modern development workflows & basic containerization  
+- 📈 Continuous learner with an engineering mindset  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,js,html,css,mongodb,git,linux" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,js,html,css,mongodb,docker,git,linux" />
 </p>
 
 ---
 
-## 🧠 Web Development Fundamentals
+## 🧠 Web Development & Engineering Fundamentals
 - Client–Server Architecture  
 - Server-Side Rendering (SSR) & Static Site Generation (SSG)  
 - Component-based development  
+- RESTful API fundamentals  
+- Basic containerization using Docker  
 - Clean and readable code practices  
 - Basic debugging & error handling  
 
@@ -36,6 +39,7 @@ I am preparing myself for **internship and entry-level opportunities** by buildi
 ## 🌱 Currently Learning
 - Advanced Next.js & React patterns  
 - Backend API structure and data flow  
+- Docker-based development workflow  
 - Full-stack application architecture  
 - Best practices in modern web development  
 
@@ -44,8 +48,9 @@ I am preparing myself for **internship and entry-level opportunities** by buildi
 ## 🎯 Career Objective
 Seeking **internship and entry-level roles in Web Development** where I can:
 - Work on real-world full-stack applications  
+- Apply modern tools such as Docker in development workflows  
 - Strengthen frontend and backend skills  
-- Learn professional development workflows  
+- Learn professional engineering practices  
 - Grow as a reliable web developer within a team  
 
 ---
@@ -57,9 +62,9 @@ Seeking **internship and entry-level roles in Web Development** where I can:
 
 ## 📫 Contact
 - GitHub: https://github.com/garteejr  
-- Email: jrtegar46@gmail.com  
+- Email: jrtegar46@gmail.com
 - LinkedIn / Portfolio Website: *(optional)*  
 
 ---
 
-> *Focused on continuous growth and strong fundamentals in full-stack web development.*
+> *Focused on continuous growth, strong fundamentals, and real-world engineering practices.*
