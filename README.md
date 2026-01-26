@@ -1,70 +1,77 @@
-# 👋 Hi, I’m Gartee
+# Hi, I’m Gartee
 
-Informatics Engineering student preparing to become a **Full-Stack Software Engineer**  
-with a primary stack **React (Frontend)** and **Node.js (Backend)**.
+Informatics Engineering student focused on **Full-Stack Web Development**  
+with a primary stack **Next.js, React, Tailwind CSS, and Node.js**.
 
-I focus on building a strong foundation in **software engineering principles**,  
-not just writing code, but understanding how systems are designed, developed, and maintained.
+I am preparing myself for **internship and entry-level roles** by building strong fundamentals in frontend, backend, and modern web development workflows.
 
 ---
 
-## 👨‍💻 Software Engineer Profile
+## 👨‍💻 Web Developer Profile
 - 🎓 Informatics Engineering student  
-- 💻 Aspiring Full-Stack Software Engineer  
-- 🧠 Strong interest in application architecture and problem solving  
-- 📈 Learning through hands-on development and engineering mindset  
+- 💻 Aspiring Full-Stack Web Developer  
+- 🧠 Interested in building modern, scalable, and maintainable web applications  
+- 📈 Learning through hands-on development and continuous improvement  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Frontend Engineering
+### Frontend
+- Next.js  
 - React.js  
-- HTML, CSS, JavaScript  
-- Component-based architecture  
-- Responsive and reusable UI design  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- HTML5  
+- Responsive Web Design  
 
-### Backend Engineering
+### Backend
 - Node.js  
-- REST API fundamentals  
-- Server-side logic & data flow  
+- Next.js API Routes  
+- RESTful API  
 
-### Software Engineering Fundamentals
-- Programming logic & algorithms (basic)  
-- Clean and readable code practices  
-- Debugging and error handling  
-- Understanding software development lifecycle  
+### Database
+- MongoDB / MySQL *(basic)*  
 
 ### Tools & Environment
-- Git & GitHub (version control)  
+- Git & GitHub  
 - Visual Studio Code  
-- Linux (basic)
+- Postman *(basic)*  
+- Linux *(basic)*  
+
+---
+
+## 🧠 Web Development Fundamentals
+- Client–Server Architecture  
+- Server-Side Rendering (SSR) & Static Site Generation (SSG)  
+- Component-based development  
+- Clean and readable code practices  
+- Basic debugging & error handling  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced React concepts  
-- Backend structure & API design with Node.js  
+- Advanced Next.js & React patterns  
+- Backend API structure and data flow  
 - Full-stack application architecture  
-- Software engineering best practices  
+- Best practices in modern web development  
 
 ---
 
 ## 🎯 Career Objective
-Seeking **internship and entry-level opportunities** as a **Software / Full-Stack Engineer** where I can:
-- Work on real-world systems  
-- Apply engineering principles in development  
-- Improve code quality and system thinking  
-- Grow within a professional engineering team  
+Seeking **internship and entry-level opportunities in Web Development** where I can:
+- Work on real-world full-stack applications  
+- Strengthen frontend and backend skills  
+- Learn professional development workflows  
+- Grow as a reliable web developer in a team environment  
 
 ---
 
-## 📫 Contact & Professional Links
+## 📫 Contact
 - GitHub: https://github.com/garteejr  
 - Email: *(add when ready)*  
 - LinkedIn / Portfolio Website: *(optional)*  
 
 ---
 
-> *Focused on becoming a reliable software engineer through fundamentals and consistency.*
-
+> *Focused on continuous growth and strong fundamentals in full-stack web development.*
