@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Gartee
 
-Informatics Engineering student focused on **Full-Stack Web Development**  
+Informatics Engineer Enthusiast student focused on **Full-Stack Web Development**  
 with a primary stack **Next.js, React, Tailwind CSS, Node.js**, and **Docker**.
 
 I am preparing myself for **internship and entry-level opportunities** by building strong fundamentals in web development, system understanding, and modern development workflows.
@@ -10,7 +10,7 @@ I am preparing myself for **internship and entry-level opportunities** by buildi
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Informatics Engineering student  
+- 🎓 Informatics Engineer Enthusiast student
 - 💻 Aspiring Full-Stack Web Developer  
 - 🧠 Interested in building scalable and maintainable web applications  
 - ⚙️ Learning modern development workflows & basic containerization  
