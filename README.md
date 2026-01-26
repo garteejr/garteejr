@@ -1,13 +1,15 @@
-# Hi, I’m Gartee
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Full-Stack%20Web%20Developer&fontAlign=50&fontSize=32" />
+
+# 👋 Hi, I’m Gartee
 
 Informatics Engineering student focused on **Full-Stack Web Development**  
 with a primary stack **Next.js, React, Tailwind CSS, and Node.js**.
 
-I am preparing myself for **internship and entry-level roles** by building strong fundamentals in frontend, backend, and modern web development workflows.
+I am preparing myself for **internship and entry-level opportunities** by building strong fundamentals in frontend, backend, and modern web development practices.
 
 ---
 
-## 👨‍💻 Web Developer Profile
+## 👨‍💻 About Me
 - 🎓 Informatics Engineering student  
 - 💻 Aspiring Full-Stack Web Developer  
 - 🧠 Interested in building modern, scalable, and maintainable web applications  
@@ -16,28 +18,9 @@ I am preparing myself for **internship and entry-level roles** by building stron
 ---
 
 ## 🛠️ Tech Stack
-
-### Frontend
-- Next.js  
-- React.js  
-- Tailwind CSS  
-- JavaScript (ES6+)  
-- HTML5  
-- Responsive Web Design  
-
-### Backend
-- Node.js  
-- Next.js API Routes  
-- RESTful API  
-
-### Database
-- MongoDB / MySQL *(basic)*  
-
-### Tools & Environment
-- Git & GitHub  
-- Visual Studio Code  
-- Postman *(basic)*  
-- Linux *(basic)*  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,js,html,css,mongodb,git,linux" />
+</p>
 
 ---
 
@@ -59,17 +42,22 @@ I am preparing myself for **internship and entry-level roles** by building stron
 ---
 
 ## 🎯 Career Objective
-Seeking **internship and entry-level opportunities in Web Development** where I can:
+Seeking **internship and entry-level roles in Web Development** where I can:
 - Work on real-world full-stack applications  
 - Strengthen frontend and backend skills  
 - Learn professional development workflows  
-- Grow as a reliable web developer in a team environment  
+- Grow as a reliable web developer within a team  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garteejr&show_icons=true)
 
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/garteejr  
-- Email: jrtegar46@gmail.com
+- Email: jrtegar46@gmail.com  
 - LinkedIn / Portfolio Website: *(optional)*  
 
 ---
