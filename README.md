@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Full-Stack%20Web%20Developer&fontAlign=50&fontSize=32" />
 
-# 👋 Hi, I’m Gartee
-
+# 👋 Hi, I’m Tegar Eleven June Rachman Putra
 Informatics Engineer Enthusiast student focused on **Full-Stack Web Development**  
 with a primary stack **Next.js, React, Tailwind CSS, Node.js**, and **Docker**.
 
