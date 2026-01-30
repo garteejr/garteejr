@@ -63,7 +63,7 @@ Seeking **internship and entry-level roles in Web Development** where I can:
 ## 📫 Contact
 - GitHub: https://github.com/garteejr  
 - Email: jrtegar46@gmail.com
-- LinkedIn / Portfolio Website: *(optional)*  
+- LinkedIn / Portfolio Website: https://garteejr.github.io/personal-website/
 
 ---
 
